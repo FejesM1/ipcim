@@ -1,3 +1,4 @@
+#A feladatot Fejes Máté és Németh Imre készítette.
 ip = input("Adj megy egy ip címet: ")
 hexadecimal = ["0","1","2","3","4","5","6","7","8","9", "a", "b", "c", "d","e","f"]
 ipv = ip.split(sep=".")
